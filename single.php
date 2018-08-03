@@ -31,7 +31,8 @@
                 </div>
 
             </div>
-            <hr
+            <?php afterpost_email(); ?>
+           <br>
 
             <div class="card">
                 <div class="card-body">
@@ -41,7 +42,7 @@
                     </span>
                 
 
-                        <hr width="50%">
+                       
 
 
                 </div>
