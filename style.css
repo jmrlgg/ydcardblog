@@ -1,0 +1,48 @@
+/*
+Theme Name: yolodigi_theme
+Theme URI: http://yolodigi.com/wordpress
+Author: Jeremy Massey
+Author URI: http://yolodigi.com/
+Description: A general blog them that has been developed from scratch to fit my needs.
+Version: .01
+CopyRight: YoloDigi
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+Text Domain: yolodigi_theme
+
+*/
+
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("../img/learn-with-us.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.card-title {
+    color:#343a40;
+}
+
+nav, navbar, a, a:visited {
+    color:black;
+}
+
+navbar-brand {
+    color:black;
+}
+
+nav, navbar, a:active {
+    color:#0085a1
+}
+.nav-img {
+    max-width:20px;
+
+}
