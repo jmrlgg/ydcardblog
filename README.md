@@ -1,5 +1,16 @@
 # ydcardblog
 
+Blog with Card Displays and Sidebar
+===================================
+
+Features
+--------
+Email Newsletter Built In
+ - After Single Post
+ - In Sidebar
+ - Possible Built into Footer
+- 
+
 
 Display of Blog in Action
 -------------------------
