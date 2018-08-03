@@ -9,8 +9,11 @@ Email Newsletter Built In
  - After Single Post
  - In Sidebar
  - Possible Built into Footer
+  
 NavWalker Menu
+
 Custom Header for Each page
+
 TAGS Shown in Header
 
 
