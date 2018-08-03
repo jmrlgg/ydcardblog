@@ -6,13 +6,13 @@ Blog with Card Displays and Sidebar
 Features
 --------
 
-1. NavWalker Menu
-2. Email Newsletter Built In
+-. NavWalker Menu
+-. Email Newsletter Built In
    * After Single Post
     * In Sidebar 
     * Possible Built into Footer 
-3. Custom Header with Label for Each page
-4. TAGS Shown in Header
+-. Custom Header with Label for Each page
+-. TAGS Shown in Header
 
 
 Display of Blog in Action
