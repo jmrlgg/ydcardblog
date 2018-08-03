@@ -6,9 +6,12 @@ Blog with Card Displays and Sidebar
 Features
 --------
 
- /NavWalker Menu
+ NavWalker Menu
+
  /Email Newsletter Built In [* After Single Post * In Sidebar  * Possible Built into Footer ]
+
  /Custom Header with Label for Each page
+ 
  /TAGS Shown in Header
 
 
